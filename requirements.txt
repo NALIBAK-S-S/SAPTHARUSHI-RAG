@@ -1,0 +1,13 @@
+lancedb
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-nomic
+unstructured
+unstructured_inference
+pdfminer.six
+pi-heif
+pdf2image
+unstructured_pytesseract
+streamlit
+google-generativeai
